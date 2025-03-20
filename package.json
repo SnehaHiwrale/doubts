@@ -1,4 +1,13 @@
 {
+  "name": "doubts",
+  "version": "0.0.1",
+  "engines": {
+    "node": "22.11.0",
+    "npm": "10.9.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+  },
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cloudinary": "^2.6.0",
